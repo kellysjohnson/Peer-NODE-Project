@@ -1,0 +1,15 @@
+{
+  "name": "Assignment_5_06",
+  "version": "1.0.0",
+  "description": "Assignment with peer - Rom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Kelly Johnson and Rom Stevens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
